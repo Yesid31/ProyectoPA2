@@ -1,4 +1,3 @@
-import './Menu.css';
 import 'animate.css'
 
 export function Menu() {
@@ -11,7 +10,9 @@ export function Menu() {
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             <i className="bi bi-scissors"></i>
-            The Barber
+            
+            Dubai Sofware
+            
           </a>
           <button
             className="navbar-toggler"
@@ -27,19 +28,19 @@ export function Menu() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
-                  Inicio
-                </Link>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">
-                  Reservas
+                <a className="nav-link active" aria-current="page" to="/">
+                  Home
                 </a>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/reservas">
-                  Servicios
-                </Link>
+                <a className="nav-link" href="#">
+                  Features
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" to="/reservas">
+                  Listar Reservas
+                </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link disabled">Disabled</a>
@@ -54,4 +55,3 @@ export function Menu() {
     </>
   );
 }
-

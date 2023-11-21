@@ -10,12 +10,11 @@ export function Historia() {
               className="img-fluid"
             />
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim in
-              cum delectus nemo, laboriosam numquam vitae magni! Tempore quam
-              quas voluptas obcaecati vel doloremque esse, dicta eum voluptates
-              iste dolores et doloribus molestiae unde rem asperiores
-              consectetur dolorem aspernatur debitis similique quaerat
-              voluptatum distinctio ipsam corrupti. Nam tempora debitis et!
+            Ciel Tower se convertirá en el hotel más alto del mundo cuando se
+              Se inaugura en Dubai en 2023. La torre de 82 pisos ofrecerá impresionantes
+              Vistas de la ciudad y del Golfo Arábigo, y su lujo.
+              El alojamiento lo convertirá en un destino principal para los viajeros de
+              Alrededor del mundo.
             </p>
           </div>
 
@@ -26,12 +25,10 @@ export function Historia() {
               className="img-fluid"
             />
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id
-              molestias optio reprehenderit est consequuntur nihil quaerat, quis
-              debitis facere aliquam impedit animi quidem! Iure, tenetur
-              consequatur earum aut dolore quidem eius alias nesciunt voluptate
-              quis esse assumenda, similique quam ullam perspiciatis incidunt
-              dolor culpa suscipit natus dolores sint iste! Porro!
+            Uno de los barrios más prestigiosos de la ciudad. El puerto deportivo
+              Es el hogar de hoteles de lujo, tiendas de alta gama y hoteles de clase mundial.
+              Restaurantes. También es un destino popular para los deportes acuáticos y
+              Otras actividades al aire libre.
             </p>
           </div>
         </div>
